@@ -8,3 +8,4 @@
 - 2015 A new interpretation of seismic tomography in the southern Dead Sea basin using neural network clustering techniques
 - 2016 Origin and evolution of the deep thermochemical structure beneath Eurasia
 - 2018 S Velocity Model of East Asia From a Cluster Analysis of Localized Dispersion
+- 2019 Tectonic regionalization of the Southern California crust from tomographic cluster analysis
